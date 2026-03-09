@@ -1,2 +1,2 @@
 # python-university-exercises
-Just showcasing some Python tasks I had to do during my course "Introduction to Data Science"
+Just showcasing some Python tasks from my course "Introduction to Data Science"
